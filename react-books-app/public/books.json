@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt, David Thomas",
+    "publisher": "Addison-Wesley",
+    "yearOfLaunch": 1999,
+    "price": 45,
+    "pages": 352
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publisher": "Prentice Hall",
+    "yearOfLaunch": 2008,
+    "price": 50,
+    "pages": 464
+  },
+  {
+    "title": "You Don’t Know JS",
+    "author": "Kyle Simpson",
+    "publisher": "O’Reilly Media",
+    "yearOfLaunch": 2015,
+    "price": 35,
+    "pages": 278
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "publisher": "MIT Press",
+    "yearOfLaunch": 2009,
+    "price": 80,
+    "pages": 1312
+  },
+  {
+    "title": "Design Patterns",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "publisher": "Addison-Wesley",
+    "yearOfLaunch": 1994,
+    "price": 60,
+    "pages": 395
+  }
+]

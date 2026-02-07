@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Robert Kiyosaki",
+        "email": "rob@hotmail.com",
+        "address": {
+            "street": "St. Peters Street",
+            "city": "New York"
+        },
+        "phone": "1-770-736-8031",
+        "website": "richdadpoordad.com"
+    },
+    {
+        "id": 2,
+        "name": "Donald Trump",
+        "email": "donald@gmail.com",
+        "address": {
+            "street": "White House",
+            "city": "USA"
+        },
+        "phone": "010-692-6593",
+        "website": "trump.com"
+    }
+]
